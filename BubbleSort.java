@@ -1,5 +1,5 @@
 //Java BubbleSort
-//Josh Weaver, 11/19/2013
+//Josh Weaver, October 19th 2013
 
 import java.util.*;
 
