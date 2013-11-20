@@ -1,3 +1,6 @@
+//Java BubbleSort
+//Josh Weaver, 11/19/2013
+
 import java.util.*;
 
 public class BubbleSort{
